@@ -24,7 +24,7 @@ The game ends when all pairs have been matched. Your score and the time taken wi
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/match-the-pair.git
+git clone https://nawabkhan89646.github.io/js_match_pair/
 Navigate to the project directory:
 bash
 Copy code
